@@ -1,6 +1,6 @@
 <template>
   <div class="mainDiv">
-    <img src="error-404.png" class="image" />
+    <img src="/public/error-404.png" class="image" />
     <h2>
       Page not found. DO you want to visit home page.
       <RouterLink to="/" class="link"> Visit here</RouterLink>
