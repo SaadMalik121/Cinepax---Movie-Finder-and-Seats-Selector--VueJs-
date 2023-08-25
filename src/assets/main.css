@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: rgb(50, 50, 50);
+  color: white;
+}
+
+::-moz-selection {
+  /* Code for Firefox */
+  color: white;
+  background: rgb(243, 79, 79);
+}
+
+::selection {
+  color: white;
+  background: rgb(243, 79, 79);
+}
